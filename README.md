@@ -1,4 +1,5 @@
 # ESP32-S2
+The code was written by DAVID MARTINEZ.
 
 The software provided for ESP32-S2 is designed to detect and classify Wi-Fi networks, being able to identify and categorize them based on the channel used and signal strength. It can assist in locating the position of a router and the signal strength at different points in your home, allowing you to verify the coverage. Please note that this software is still in development.
 
@@ -20,3 +21,5 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 6. From your mobile phone, turn on the Wi-Fi and connect to the network named "ESP32_AP" with the password: password123. Once connected, open the mobile browser and enter the following address: 192.168.4.1. You will establish communication with the device, allowing you to perform network scans.
 
 Enjoy.
+
+[![esp32-s2-mini.jpg](https://i.postimg.cc/wxRQnwHS/esp32-s2-mini.jpg)](https://postimg.cc/ThGbDqK9)
