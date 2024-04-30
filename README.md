@@ -1,5 +1,5 @@
 # ESP32-S2
-The code was written by DAVID MARTINEZ.
+The code was written by DAVID MARTINEZ.  STABLE SOFTWARE, NO MORE UPDATES
 
 The software provided for ESP32-S2 is designed to detect and classify Wi-Fi networks, being able to identify and categorize them based on the channel used and signal strength. It can assist in locating the position of a router and the signal strength at different points in your home, allowing you to verify the coverage. Please note that this software is still in development.
 
