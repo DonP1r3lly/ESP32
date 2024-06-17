@@ -18,6 +18,12 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 5. Disconnect the board from the computer and reconnect it to the computer or a power source.
 
+# LICENSE:
+This software is free to distribute, modify and use with the condition that credit is provided to the creator (@DonP1r3lly) and is not for commercial use.
+
+# DISCLAIMER:
+This program is used for educational and ethical purposes only. I take no responsibility for any damages caused from using this program. By downloading and using this software, you agree that you take full responsibility 
+
 6. From your mobile phone, turn on the Wi-Fi and connect to the network named "ESP32_AP" with the password: password123. Once connected, open the mobile browser and enter the following address: 192.168.4.1. You will establish communication with the device, allowing you to perform network scans.
 
 Enjoy.
